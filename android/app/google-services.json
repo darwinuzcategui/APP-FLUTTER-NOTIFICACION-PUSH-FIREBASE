@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855244188271",
+    "firebase_url": "https://android-ejemplopatzi.firebaseio.com",
+    "project_id": "android-ejemplopatzi",
+    "storage_bucket": "android-ejemplopatzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855244188271:android:c9715eb6ff40369c69bb9a",
+        "android_client_info": {
+          "package_name": "com.darwinuzcategui.pushfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855244188271-0ubos2qe67vtjfenp5dpic0fe1ssl8cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darwinuzcategui.pushfirebase",
+            "certificate_hash": "f8df04626e545e8a29159a8d15a3702feb428c54"
+          }
+        },
+        {
+          "client_id": "855244188271-u5flb7a7ehgfgqbomitb6bg6if1662mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MeU6o1Bnto4BGmkMBNaB7giOD4A--Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855244188271-u5flb7a7ehgfgqbomitb6bg6if1662mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
